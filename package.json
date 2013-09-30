@@ -21,10 +21,12 @@
     "highlight.js": "~7.2.0",
     "async": "~0.1.22",
     "optimist": "~0.3.4",
-    "wrench": "~1.3.9"
+    "wrench": "~1.3.9",
+    "js-dependency-graph": "https://github.com/aearly/js-dependency-graph/tarball/master",
+    "debug": "~0.7.2"
   },
   "devDependencies": {
-    "debounce": "0.0.1",
+    "debounce": "~0.0.3",
     "d3": "~2.10.1",
     "browserify": "~1.16.1",
     "uglify-js": "~1.3.3",
