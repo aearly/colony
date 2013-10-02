@@ -126,6 +126,10 @@ code .title   { color:#4271AE; }
     margin:0;
     width:100%;
     white-space: pre;
+    word-wrap: normal;
+    line-height: 1;
+    padding-bottom: 10px;
+    overflow-x: scroll;
 }
 
 .showing-code pre > code {
